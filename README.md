@@ -8,7 +8,9 @@ eg
 design/wallpapers 
 design/icons
 
-
+# How to add files 
+For a tutorial on how to commit files with or without git 
+please refer to [How to commit your files](HOW_TO_COMMIT.md)
 
 
 
