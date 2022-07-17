@@ -10,3 +10,4 @@ Example:
 Change log entries: 
 - 14/07/2022 - Xapu1337 (3 Wallpapers)
 - 15/07/2022 - Kaladii (5 Wallpapers)
+- XX.XX.XXXX - <Github User Name> (X Wallpapers)
