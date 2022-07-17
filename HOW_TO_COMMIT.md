@@ -25,12 +25,12 @@ Using VSCode and Git is a easy way to add your files and commit them
 
 ![VSCode confirmation required](.tutorial/images/trustAuthors.png)
 
-9. Paste your desired file you created into the fitting folder (wallpapers/community for example) 
+9. Drag and drop your desired file you created into the fitting folder (wallpapers/community for example) 
 10. once you completed that, open the git tab in VSCode
 
 ![Git Tab](.tutorial/images/gitTab.png)
 
-11. In the message tab write a small message like "Added some wallpapers, 17/07/2022"
+11. In the message tab write a small message like "Added some wallpapers, XX.XX.XXXX"
 12. Press Commit
 13. (IF NOT LOGGED IN) it will ask you for a authetification, follow the automatic process and accept the prompts
 14. Press yes if it says "No Stashed Changes"
@@ -44,3 +44,25 @@ Using VSCode and Git is a easy way to add your files and commit them
 
 
 # Using a browser (Does not require the files to be downloaded)
+
+1. Open the Github project
+2. Fork it
+3. After doing that, you should see this page
+
+![Github homepage](.tutorial/images/gitProjectHomepage.png)
+
+4. Press "." (this will launch a browser only instane of VSCode)
+5. You now should see this:
+
+![VSCode browser](.tutorial/images/vscodeInBrowser.png)
+
+6. Drag and drop your desired file you created into the fitting folder (wallpapers/community for example)
+   The file you added should now show up and should be highlighted in a green color
+
+![Highlighted file](.tutorial/images/fileUploadedHighlighted.png)
+
+7. Open the VSC (Git) tab
+
+![Git tab in VSCode browser](.tutorial/images/gitTabOnline.png)
+
+8. Give it a fitting name (Like "Adding some wallpapers, XX.XX.XXX")
