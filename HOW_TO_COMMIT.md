@@ -32,7 +32,13 @@ Using VSCode and Git is a easy way to add your files and commit them
 
 11. In the message tab write a small message like "Added some wallpapers, 17/07/2022"
 12. Press Commit
+13. (IF NOT LOGGED IN) it will ask you for a authetification, follow the automatic process and accept the prompts
+14. Press yes if it says "No Stashed Changes"
+    
+![No Stashed Changes](.tutorial/images/vscodeNoStashedChanges.png)
 
+15. Press Sync
+16. Done! now follow the "How to create a propper pull request" in the main readme.
 
 
 
