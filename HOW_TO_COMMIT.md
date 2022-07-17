@@ -26,19 +26,22 @@ Using VSCode and Git is a easy way to add your files and commit them
 ![VSCode confirmation required](.tutorial/images/trustAuthors.png)
 
 9. Drag and drop your desired file you created into the fitting folder (wallpapers/community for example) 
-10. once you completed that, open the git tab in VSCode
+
+10. Add a new entry to the [Changelog](CHANGELOG.md) (Follow the given format)
+
+11. once you completed that, open the git tab in VSCode
 
 ![Git Tab](.tutorial/images/gitTab.png)
 
-11. In the message tab write a small message like "Added some wallpapers, XX.XX.XXXX"
-12. Press Commit
-13. (IF NOT LOGGED IN) it will ask you for a authetification, follow the automatic process and accept the prompts
-14. Press yes if it says "No Stashed Changes"
+12. In the message tab write a small message like "Added some wallpapers, XX.XX.XXXX"
+13. Press Commit
+14. (IF NOT LOGGED IN) it will ask you for a authetification, follow the automatic process and accept the prompts
+15. Press yes if it says "No Stashed Changes"
     
 ![No Stashed Changes](.tutorial/images/vscodeNoStashedChanges.png)
 
-15. Press Sync
-16. Done! now follow the "How to create a propper pull request" in the main readme.
+16. Press Sync
+17. Done! now follow the [How to create a push request](README.md#how-to-create-a-push-request) in the main readme.
 
 
 
@@ -61,8 +64,12 @@ Using VSCode and Git is a easy way to add your files and commit them
 
 ![Highlighted file](.tutorial/images/fileUploadedHighlighted.png)
 
-7. Open the VSC (Git) tab
+7. Add a new entry to the [Changelog](CHANGELOG.md) (Follow the given format)
+
+8. Open the VSC (Git) tab
 
 ![Git tab in VSCode browser](.tutorial/images/gitTabOnline.png)
 
-8. Give it a fitting name (Like "Adding some wallpapers, XX.XX.XXX")
+9. Give it a fitting name (Like "Adding some wallpapers, XX.XX.XXX")
+10. Press the checkmark.
+11. Done! now follow the [How to create a push request](README.md#how-to-create-a-push-request) in the main readme.
