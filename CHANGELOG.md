@@ -12,3 +12,4 @@ Change log entries:
 - 15/07/2022 - Kaladii (5 Wallpapers)
 - 17/07/2022 - Xapu1337 (1 Wallpaper)
 - 17/07/2022 - minegame2021 (27 Wallpapers)
+- 17/07/2022 - Trynera (1 Wallpaper)
