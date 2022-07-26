@@ -15,3 +15,4 @@ Change log entries:
 - 17/07/2022 - Trynera (1 Wallpaper)
 - 20/07/2022 - iDevYT (2 Wallpapers)
 - 22/07/2022 - K1LL3R V1LL3R (25 wallpapers)
+- 25/07/2022 - Cactus500 (16 wallpapers)
