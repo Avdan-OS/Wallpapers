@@ -2,7 +2,7 @@
 
 ## How to commit your designs
 
-In order to commit your designs you will need either [**a modern browser**](#using-a-browser-does-not-require-the-files-to-be-downloaded) or [**Visual Studio Code and Git**](#vscode-with-git) (recommended) installed. (both require a PC)
+In order to commit your designs you will need to either [**a modern browser**](#using-a-browser-does-not-require-the-files-to-be-downloaded) or [**Visual Studio Code and Git**](#vscode-with-git) (recommended) installed. (both require a PC)
 
 ### You need a GitHub account in order to add your designs to the repository.
 
